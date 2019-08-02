@@ -1,0 +1,8 @@
+bin
+obj
+.vscode/launch.json
+appsettings.*.json
+_*
+node_modules
+.vs
+*.user
